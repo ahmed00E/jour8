@@ -16,7 +16,4 @@
     "url": "https://github.com/benpaquier/jour8/issues"
   },
   "homepage": "https://github.com/benpaquier/jour8#readme",
-  "dependencies": {
-    "prompt": "^1.2.0"
-  }
 }
