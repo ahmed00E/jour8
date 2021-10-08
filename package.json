@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/benpaquier/jour8#readme",
   "dependencies": {
-    "prompt": "^1.2.0"
+    "beepbeep": "^1.3.0",
+    "beeper": "^3.0.0",
+    "colors": "^1.4.0",
+    "prompt": "^1.2.0",
+    "random-word-fr": "^1.0.3"
   }
 }

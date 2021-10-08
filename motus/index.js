@@ -26,7 +26,6 @@ function play() {
 
     if (result.input.length !== 5) {
       console.log("Pas le bon nombre de lettres")
-      attempts = attempts - 1
       play()
     } else {
       for (var i = 0; i < mysteryWord.length; i++) {
@@ -43,6 +42,8 @@ function play() {
 
       play()
     }
+
+    attempts = attempts - 1
 
     console.log(str)
   })
